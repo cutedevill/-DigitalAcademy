@@ -39,7 +39,7 @@ def multiply_digits(number):
     return mult
 
 
-if __name__ != '__main__':
+if __name__ == '__main__':
     while True:
         try:
             option = int(input("Please, select the task you want to see\n"
